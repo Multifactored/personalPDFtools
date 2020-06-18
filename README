@@ -1,0 +1,5 @@
+Requires Python3 for the pdftopng.py script
+
+pip install pdf2image (use pip3 if need be)
+pip install pillow
+pip install PyPDF2
