@@ -11,9 +11,9 @@ Requires Python3 all modules!
 * pip3 install PyPDF2
 
 ## Good uses:
-Editing PDFs in a rather convoluted way, using image editors.
-Compressing PDFs locally without using some freeware online service for privacy reasons by abusing png compression.
-Making PDFs uncopiable without any software, I guess.
+* Editing PDFs in a rather convoluted way, using image editors.
+* Compressing PDFs locally without using some freeware online service for privacy reasons by abusing png compression.
+* Making PDFs uncopiable without any software, I guess.
 
 ## How to use:
 ./pdfToPng.py resume.pdf 
