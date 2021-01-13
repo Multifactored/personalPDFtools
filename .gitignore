@@ -1,0 +1,6 @@
+#Rawr! Ignore all outcome folders due to classified info (/outcome*)
+/outcome*
+
+#ignore all files in progress just in case
+*.pdf
+*.png

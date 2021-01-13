@@ -1,5 +1,9 @@
+Originally this was a set of really scuffed tools, but now it's just a utility for my personal use. Probably don't use this yourself, lol.
+
 Requires Python3 for the pdftopng.py script
 
 pip install pdf2image (use pip3 if need be)
 pip install pillow
 pip install PyPDF2
+
+How to use:
