@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 from pdf2image import convert_from_path, convert_from_bytes
 import sys
 
