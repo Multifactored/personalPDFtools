@@ -16,9 +16,9 @@ Requires Python3 all modules!
 * Making PDFs uncopiable without any software, I guess.
 
 ## How to use:
-./pdfToPng.py resume.pdf 
+python3 pdfToPng.py resume.pdf 
 - Outputs the *.png
-./pdfToPng.py 0.png 
+python3 pdfToPng.py 0.png 
 - Makes 0.pdf.
-./pdfMerger.py 0.pdf 1.pdf
+python3 pdfMerger.py 0.pdf 1.pdf
 - Outputs result.pdf
