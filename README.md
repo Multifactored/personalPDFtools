@@ -17,8 +17,10 @@ Requires Python3 all modules!
 
 ## How to use:
 python3 pdfToPng.py resume.pdf 
-- Outputs the *.png
+- Outputs the \*.png
+
 python3 pdfToPng.py 0.png 
 - Makes 0.pdf.
+
 python3 pdfMerger.py 0.pdf 1.pdf
 - Outputs result.pdf
